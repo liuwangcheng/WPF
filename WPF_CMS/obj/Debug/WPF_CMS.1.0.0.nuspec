@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WPF_CMS</id>
+    <version>1.0.0</version>
+    <authors>WPF_CMS</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="8.0.10" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\WPF\WPF_CMS\WPF_CMS\bin\Debug\net8.0-windows\WPF_CMS.runtimeconfig.json" target="lib\net8.0-windows7.0\WPF_CMS.runtimeconfig.json" />
+    <file src="D:\WPF\WPF_CMS\WPF_CMS\bin\Debug\net8.0-windows\WPF_CMS.dll" target="lib\net8.0-windows7.0\WPF_CMS.dll" />
+  </files>
+</package>

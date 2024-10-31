@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WPF\\WPF_CMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS01/master/True/SqlTable/dbo.Customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS01/master/True/SqlTable/dbo.Appointments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|d:\\wpf\\wpf_cms\\wpf_cms\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|solutionrelative:wpf_cms\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|d:\\wpf\\wpf_cms\\wpf_cms\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|solutionrelative:wpf_cms\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|d:\\wpf\\wpf_cms\\wpf_cms\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|solutionrelative:wpf_cms\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|d:\\wpf\\wpf_cms\\wpf_cms\\arrachedproperties\\calendarattachedproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|solutionrelative:wpf_cms\\arrachedproperties\\calendarattachedproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|d:\\wpf\\wpf_cms\\wpf_cms\\controls\\headercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|solutionrelative:wpf_cms\\controls\\headercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|d:\\wpf\\wpf_cms\\wpf_cms\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|solutionrelative:wpf_cms\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|d:\\wpf\\wpf_cms\\wpf_cms\\viewmodels\\appointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|solutionrelative:wpf_cms\\viewmodels\\appointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|d:\\wpf\\wpf_cms\\wpf_cms\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|solutionrelative:wpf_cms\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|d:\\wpf\\wpf_cms\\wpf_cms\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C8CA30-6535-4BDB-9A93-12664F93F4F7}|WPF_CMS\\WPF_CMS.csproj|solutionrelative:wpf_cms\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Customers [\u6570\u636E]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS01/master/True/SqlTable/dbo.Customers.sql",
+              "ToolTip": "dbo.Customers [\u6570\u636E]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-31T07:37:34.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Appointments [\u6570\u636E]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS01/master/True/SqlTable/dbo.Appointments.sql",
+              "ToolTip": "dbo.Appointments [\u6570\u636E]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-31T07:37:12.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HeaderControl.xaml",
+              "DocumentMoniker": "D:\\WPF\\WPF_CMS\\WPF_CMS\\Controls\\HeaderControl.xaml",
+              "RelativeDocumentMoniker": "WPF_CMS\\Controls\\HeaderControl.xaml",
+              "ToolTip": "D:\\WPF\\WPF_CMS\\WPF_CMS\\Controls\\HeaderControl.xaml",
+              "RelativeToolTip": "WPF_CMS\\Controls\\HeaderControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T15:37:04.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\WPF\\WPF_CMS\\WPF_CMS\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_CMS\\MainWindow.xaml",
+              "ToolTip": "D:\\WPF\\WPF_CMS\\WPF_CMS\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_CMS\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T09:18:29.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\WPF\\WPF_CMS\\WPF_CMS\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WPF_CMS\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\WPF\\WPF_CMS\\WPF_CMS\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WPF_CMS\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAYwIcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:40:29.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalendarAttachedProperties.cs",
+              "DocumentMoniker": "D:\\WPF\\WPF_CMS\\WPF_CMS\\ArrachedProperties\\CalendarAttachedProperties.cs",
+              "RelativeDocumentMoniker": "WPF_CMS\\ArrachedProperties\\CalendarAttachedProperties.cs",
+              "ToolTip": "D:\\WPF\\WPF_CMS\\WPF_CMS\\ArrachedProperties\\CalendarAttachedProperties.cs",
+              "RelativeToolTip": "WPF_CMS\\ArrachedProperties\\CalendarAttachedProperties.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwDEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:44:13.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\WPF\\WPF_CMS\\WPF_CMS\\App.xaml",
+              "RelativeDocumentMoniker": "WPF_CMS\\App.xaml",
+              "ToolTip": "D:\\WPF\\WPF_CMS\\WPF_CMS\\App.xaml",
+              "RelativeToolTip": "WPF_CMS\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T15:09:05.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\WPF\\WPF_CMS\\WPF_CMS\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_CMS\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\WPF\\WPF_CMS\\WPF_CMS\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_CMS\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:18:28.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentViewModel.cs",
+              "DocumentMoniker": "D:\\WPF\\WPF_CMS\\WPF_CMS\\ViewModels\\AppointmentViewModel.cs",
+              "RelativeDocumentMoniker": "WPF_CMS\\ViewModels\\AppointmentViewModel.cs",
+              "ToolTip": "D:\\WPF\\WPF_CMS\\WPF_CMS\\ViewModels\\AppointmentViewModel.cs",
+              "RelativeToolTip": "WPF_CMS\\ViewModels\\AppointmentViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:07:15.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "D:\\WPF\\WPF_CMS\\WPF_CMS\\ViewModels\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "WPF_CMS\\ViewModels\\CustomerViewModel.cs",
+              "ToolTip": "D:\\WPF\\WPF_CMS\\WPF_CMS\\ViewModels\\CustomerViewModel.cs",
+              "RelativeToolTip": "WPF_CMS\\ViewModels\\CustomerViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA2wBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:18:53.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\WPF\\WPF_CMS\\WPF_CMS\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WPF_CMS\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\WPF\\WPF_CMS\\WPF_CMS\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "WPF_CMS\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:08:46.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
